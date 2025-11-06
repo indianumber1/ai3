@@ -68,17 +68,13 @@ st.markdown("---")
 # 각 라벨당 최대 3개씩 표시됩니다.
 # ======================
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
-    # 예)
+
+
      labels[0]: {
        "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"]
-     },
-    # "짬뽕": {
-    #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-    #   "images": ["https://ncache.ilbe.com/files/attach/new/20150509/2414319/5782323807/5789850698/29809af8a1af73b0e2b3ca82d567cea8.jpg"],
-    #   "videos": ["https://www.youtube.com/watch?v=i2tBl0M7NZg"]
-    # },
+       "images": ["https://ncache.ilbe.com/files/attach/new/20150509/2414319/5782323807/5789850698/29809af8a1af73b0e2b3ca82d567cea8.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=i2tBl0M7NZg"]
+     },}
 # ======================
 # 유틸
 # ======================
