@@ -71,21 +71,21 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
 
      labels[0]: {
-       "texts": ["네이마르의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-       "images": ["https://ncache.ilbe.com/files/attach/new/20150509/2414319/5782323807/5789850698/29809af8a1af73b0e2b3ca82d567cea8.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=i2tBl0M7NZg"]
+       "texts": ["네이마르"],
+       "images": ["https://dimg.donga.com/wps/NEWS/IMAGE/2021/05/08/106823483.2.jpg"],
+       "videos": ["https://www.youtube.com/shorts/t-Ln_rPnFvY"]
      },  
 
          labels[1]: {
-       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-       "images": ["https://ncache.ilbe.com/files/attach/new/20150509/2414319/5782323807/5789850698/29809af8a1af73b0e2b3ca82d567cea8.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=i2tBl0M7NZg"]
+       "texts": ["메시"],
+       "images": ["https://img.khan.co.kr/news/2016/06/01/l_2016060201000168900013401.jpg"],
+       "videos": ["https://www.youtube.com/shorts/Z090oJh__hQ"]
      },  
 
          labels[2]: {
-       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-       "images": ["https://ncache.ilbe.com/files/attach/new/20150509/2414319/5782323807/5789850698/29809af8a1af73b0e2b3ca82d567cea8.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=i2tBl0M7NZg"]
+       "texts": ["호날두"],
+       "images": ["https://upload2.inven.co.kr/upload/2019/08/19/bbs/i13505105741.jpg"],
+       "videos": ["https://www.youtube.com/shorts/vi8wP28zbks"]
      },
 }
 # ======================
